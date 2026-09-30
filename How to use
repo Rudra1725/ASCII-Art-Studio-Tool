@@ -1,1 +1,31 @@
+Prerequisites
+Python 3.8+
 
+The art library
+
+Install dependencies using pip:
+
+Bash
+pip install art
+Note: tkinter comes pre-installed with standard Python distributions on Windows and macOS. If you are on Linux, you may need to install it via your package manager:
+
+Bash
+sudo apt-get install python3-tk
+How to Run
+Clone this repository or copy the script file:
+
+Bash
+git clone https://github.com/your-username/ascii-art-studio.git
+cd ascii-art-studio
+Run the Python application:
+
+Bash
+python main.py
+Usage
+Enter Text: Input the word or phrase you want to convert into the TEXT INPUT box.
+
+Select Font: Choose a font from the FONT SELECTION dropdown.
+
+Choose Platform: Select where you plan to paste your ASCII art (WhatsApp, Instagram, X (Twitter), or Discord).
+
+Copy Output: Click 📋 Copy Output to copy the formatted text directly to your clipboard.
